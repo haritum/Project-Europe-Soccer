@@ -2,25 +2,25 @@
 In this project, we are going to explore, analyse, and visualize the nitty-gritty of the Soccer scence in Europe. Ofcourse, it would be anyones dream to predict the next league champion based on previous years data. Let's start small and understand the dataset before going any further with the predictions i.e., machine learning comes into picture. 
 
 ## Details
-|- datasets/
-    |- europe_soccer.sqlite
-    |- world-countries.json
-|- notebooks/
-    |- Project-Europe-Soccer.ipynb
-    |- investigate-a-dataset.ipynb
-    |- investigate_report.ipynb
-|- reports/
-    |- investifate_report.pdf
-|- README.md
+- datasets/
+-   europe_soccer.sqlite
+-   world-countries.json
+- notebooks/
+-   Project-Europe-Soccer.ipynb
+-   investigate-a-dataset.ipynb
+-   investigate_report.ipynb
+- reports/
+-   investifate_report.pdf
+- README.md
 
 ## Requirements
-|- Python3.x
-    |- sqlite3
-    |- folium
-    |- pandas
-    |- matplotlib
-    |- seaborn 
-    |- os
+- Python3.x
+-   sqlite3
+-   folium
+-   pandas
+-   matplotlib
+-   seaborn 
+-   os
 
 Some or most of the above libraries do not come pre-installed with Python3.x. Feel free to use `pip` and install libraries as required. Here is an example. 
 ```shell
