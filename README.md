@@ -3,14 +3,14 @@ In this project, we are going to explore, analyse, and visualize the nitty-gritt
 
 ## Details
 * datasets/
-  *     europe_soccer.sqlite
-  *     world-countries.json
+  * europe_soccer.sqlite
+  * world-countries.json
 * notebooks/
-  *     Project-Europe-Soccer.ipynb
-  *     investigate-a-dataset.ipynb
-  *     investigate_report.ipynb
+  * Project-Europe-Soccer.ipynb
+  * investigate-a-dataset.ipynb
+  * investigate_report.ipynb
 * reports/
-  *     investifate_report.pdf
+  * investifate_report.pdf
 * README.md
 
 ## Requirements
@@ -32,28 +32,28 @@ I have no clue as of now on how far I would go with this project. Let me just li
 
 `Gathering Data`
 - [x] `Manually` download soccer data dataset from Kaggle
-- [ ] `Programatically` download additional (e.g: soccer team logos) data using the power of Internet.
+- [x] `Programatically` download additional (e.g: soccer team logos) data using the power of Internet.
 - [ ] 
 
 `Assessing Data`
-- [ ] Document data `Quality` issues
-- [ ] Document data `Tidiness` issues
+- [x] Document data `Quality` issues
+- [x] Document data `Tidiness` issues
 
 `Cleaning Data`
-- [ ] Create a `quality-tidy` dataset
-- [ ] Save as a new cleaned dataset
+- [x] Create a `quality-tidy` dataset
+- [x] Save as a new cleaned dataset
 
 `Exploratory Data Analysis`
-- [ ]
+- [ ] 
 
 `Explanatory Data Analysis`
 - [ ]
 
 `Interactive StoryBoard`
-- Planned - TO DO -
+- TO DO -
 
 `Machine Learning for predicting the Winning Team
-- Planned - TO DO - 
+- TO DO - 
 
 
 ## Acknowledgements
