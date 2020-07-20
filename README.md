@@ -3,24 +3,24 @@ In this project, we are going to explore, analyse, and visualize the nitty-gritt
 
 ## Details
 |- datasets/
-|	- europe_soccer.sqlite
-|	- world-countries.json
+    |- europe_soccer.sqlite
+    |- world-countries.json
 |- notebooks/
-|	- Project-Europe-Soccer.ipynb
-|	- investigate-a-dataset.ipynb
-| 	- investigate_report.ipynb
+    |- Project-Europe-Soccer.ipynb
+    |- investigate-a-dataset.ipynb
+    |- investigate_report.ipynb
 |- reports/
-|	- investifate_report.pdf
+    |- investifate_report.pdf
 |- README.md
 
 ## Requirements
 |- Python3.x
-|    - sqlite3
-|    - folium
-|    - pandas
-|    - matplotlib
-|    - seaborn 
-|    - os
+    |- sqlite3
+    |- folium
+    |- pandas
+    |- matplotlib
+    |- seaborn 
+    |- os
 
 Some or most of the above libraries do not come pre-installed with Python3.x. Feel free to use `pip` and install libraries as required. Here is an example. 
 ```shell
@@ -58,7 +58,6 @@ I have no clue as of now on how far I would go with this project. Let me just li
 
 ## Acknowledgements
 1. Kaggle's Eurpean Soccer Dataset 
-2. Udacity 
-3. 
+2. Udacity.com
 ` `
 
